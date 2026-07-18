@@ -30,4 +30,4 @@ I build dashboards and data tools that turn raw data into clear insights. Curren
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inder%20Singh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/inder-singh-ab7797377/)
 [![Email](https://img.shields.io/badge/Email-inderdsingh7%40gmail.com-D14836?style=flat&logo=gmail)](mailto:inderdsingh7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-buckwheat11.github.io-c8a96e?style=flat&logo=github)](https://buckwheat11.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buckwheat11.github.io-c8a96e?style=flat&logo=github)](https://buckwheat11.github.io/InderSingh/)
