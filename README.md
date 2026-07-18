@@ -4,7 +4,7 @@
 
 I build dashboards and data tools that turn raw data into clear insights. Currently seeking junior data analyst roles in Melbourne.
 
-🌐 **Portfolio:** [buckwheat11.github.io](https://buckwheat11.github.io)
+🌐 **Portfolio:** [buckwheat11.github.io](https://buckwheat11.github.io/InderSingh/)
 
 ---
 
